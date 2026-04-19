@@ -28,16 +28,12 @@ The LEDs run in **multiple modes** such as color switching, patterns, and smooth
 ---
 
 ## 🎥 Project Demo
-👉 https://your-video-link-here
+👉 https://drive.google.com/file/d/1aldgxUtY-RRp_RoDiAM0E59JEw6wwcBs/view?usp=sharing
 
 ---
 
 ## 🔌 Circuit Diagrams
-👉 https://your-image-link-1  
-👉 https://your-image-link-2  
-👉 https://your-image-link-3  
-👉 https://your-image-link-4  
-👉 https://your-image-link-5  
+👉 https://drive.google.com/drive/folders/1Pb5eDuzsyhg4gibackFUCCGUnMimzwwn?usp=sharing
 
 ---
 
